@@ -1,0 +1,7 @@
+.DS_Store
+__pycache__/
+*.pyc
+.agent-work/
+work/demo-project/.git/
+work/validator-deps/
+outputs/acceptance/*.tmp

@@ -1,0 +1,6 @@
+interface:
+  display_name: "ChatGPT Supervisor"
+  short_description: "Supervise Codex work through ChatGPT web"
+  default_prompt: "Use $chatgpt-supervisor to coordinate this project goal through a real ChatGPT web conversation."
+policy:
+  allow_implicit_invocation: true
